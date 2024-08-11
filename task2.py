@@ -1,33 +1,32 @@
-# # Example of Assignment Operator 
+Example of Assignment Operator 
 
-# # addition
+ addition
 # x=23
 # x+=17
 # print("Addition of 23 & 17 is",x)
 
 
-# # Subtraction
+ Subtraction
 # x=36
 # x-=13
 # print("Subtraction of 36 & 13 is",x)
 
-# #Multiplication
+Multiplication
 # x=12
 # x*=7
 # print("Multiplication of 12 & 7 is",x)
 
-# #Float Division
+Float Division
 # x=91
 # x/=17
 # print("Division of 91 & 17 is",x)
 
-# # Int division
-
+Int division
 # x=91
 # x//=17
 # print("Int division of 23 & 17 is",x)
 
-# #Exponetial Oprator
+Exponetial Oprator
 # x=12
 # x**=2
 # print("12 to the power 2 is",x)
